@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ali Mansoori 👋
 
-<!--
-**alimansoori824-netizen/alimansoori824-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA student at Barkatullah Vishwavidyalaya and currently pursuing technical training at Cybrom Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm mainly focused on **Web Development** and enjoy building websites and interactive applications while improving my development skills.
+
+### 🚀 Currently Learning
+
+- React.js
+- JavaScript
+- Full-Stack Development
+- Data Analytics
+- Generative AI
+
+### 🛠️ Technologies & Tools
+
+- HTML5
+- CSS
+- JavaScript
+- React.js
+- Python
+- C++
+- MySQL
+- Power BI
+- Figma
+
+### 📌 Projects
+
+- **Male Fashion** — Static e-commerce website built with HTML & CSS
+- **Sales Analysis Dashboard** — Interactive Power BI dashboard
+- **BookMyShow Clone** — HTML, CSS & JavaScript project with CRUD operations
+
+### 📫 Connect with me
+
+- [LinkedIn](www.linkedin.com/in/ali-mansoori-696951376)
+
+---
+
+*Always learning, building, and improving.* 🚀
