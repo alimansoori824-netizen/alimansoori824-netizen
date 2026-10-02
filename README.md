@@ -34,7 +34,7 @@ I'm mainly focused on **Web Development** and enjoy building websites and intera
 
 ### 📫 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/ali-mansoori-696951376)
+- [LinkedIn](https://www.linkedin.com/in/ali-mansoori-696951376)
 
 ---
 
